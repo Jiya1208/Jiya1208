@@ -31,10 +31,6 @@ Personal portfolio using React
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jiya1208&show_icons=true&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jiya1208&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya1208&layout=compact&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya1208&layout=compact&langs_count=8&theme=tokyonight"/>
