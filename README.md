@@ -31,6 +31,10 @@ Personal portfolio using React
 
 ## 📊 GitHub Stats
 
-![Jiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyapatidar&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jiya1208&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyapatidar&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya1208&layout=compact&theme=tokyonight" />
+</p>
