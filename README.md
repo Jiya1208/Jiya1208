@@ -1,16 +1,36 @@
-## Hi there 👋
+# JIYA-PATIDAR
+# Hi 👋 I'm Jiya Patidar
 
-<!--
-**Jiya1208/Jiya1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me - I AM 3rd year IT stuudent who is passionate about-
+- DevOps Enthusiast
+- Learning Salesforce & Cloud
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🏆 Achievements
+- SIH 2025 — Cleared Round 1
+- Tech-Ostav 2025 — AI Fusion
+- Tech-Ostav 2026 — Web Development
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,docker,aws,linux,git,github,vscode,html,postman" />
+</p>
+
+
+---
+
+
+# Portfolio Website
+Personal portfolio using React
+
+
+---
+
+## 📊 GitHub Stats
+
+![Jiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyapatidar&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyapatidar&layout=compact&theme=tokyonight)
