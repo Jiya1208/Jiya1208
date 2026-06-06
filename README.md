@@ -1,6 +1,7 @@
 # JIYA-PATIDAR
 # Hi 👋 I'm Jiya Patidar 
-- I am a 3rd year IT student 
+- I am a 3rd year IT student
+- Passionate about Cloud and Devops
 - My current CGPA is 7.72
   
 
