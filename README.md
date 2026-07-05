@@ -31,8 +31,7 @@
 ---
 
 
-# Portfolio Website
-Personal portfolio using React
+
 
 
 ---
