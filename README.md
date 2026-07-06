@@ -11,8 +11,9 @@ Hi, I'm Jiya 👋<br> I am a 3rd year IT student<br>My current CGPA is 7.72<br><
 
 
 
-# Achievements SIH 2025 — 
-🔹Cleared Round 1<br>  🔹Tech-Ostav 2025 — AI Fusion<br> 🔹Tech-Ostav 2026 — Web Development
+# Achievements
+
+🔹SIH 2025 - Cleared Round 1<br>  🔹Tech-Ostav 2025 — AI Fusion<br> 🔹Tech-Ostav 2026 — Web Development
 
 
 # Certifications 
