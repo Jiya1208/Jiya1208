@@ -1,5 +1,5 @@
 # JIYA-PATIDAR
-#  About Me:
+# 👍🏻  About Me:
 Hi, I'm Jiya 👋<br> I am a 3rd year IT student<br>My current CGPA is 7.72<br><br>🔹 Computer Science and Information Technology Student<br>🔹 Linux & DevOps Learner<br>🔹 Java and DSA Enthusiast<br>🔹 Exploring Shell Scripting, Git, Docker, and Cloud Computing<br>🔹 Building projects and documenting my learning journey<br><br>"Learn, Build, Break, Fix, Repeat." 🚀<br> 
 
 
